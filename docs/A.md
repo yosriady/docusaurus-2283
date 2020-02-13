@@ -1,0 +1,1 @@
+Going to [B](dir/B.md)
